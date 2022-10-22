@@ -9,7 +9,7 @@ would select these), and depending on if these equations met different parameter
 I also made it so the wavelength impacted the colour of these particles.
 For the second simulation, it's similar to the first one but shows excitation between energy levels. 
 Then there is a table which the user can store links to Youtube videos (or other resources) inside. This could be 
-useful for keeping track of and useful teaching resources.
+useful for keeping track of useful teaching resources.
 There is a database so that each user could store their own Youtube video links. They are also able to store sets
 or parameters used for the simulations, just to make the process faster for them (so they could remember what
 numbers for the variables did different things).
